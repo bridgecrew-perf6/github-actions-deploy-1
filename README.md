@@ -9,10 +9,10 @@
 
 If you follow all the steps below, when you git push to your GitHub repository, the GitHub Actions will deploy the modifications to your server.
 
-1. Choose a [deployment folder]()
+1. Choose a [deployment folder](#deployment-folders)
 2. Rename the deployment folder to `.github` and put it in your GitHub repository
 3. Setup the [GitHub Actions secrets]() in your GitHub repository
-4. Clone your GitHub repository to your server. See [this topic]() to know how
+4. Clone your GitHub repository to your server. See [this section](#git-clone-your-github-repository-to-your-server) to know how
 
 ## Deployment folders
 
