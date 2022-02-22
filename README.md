@@ -3,7 +3,7 @@
 ## Requirements
 
 - SSH must be enabled in your server
-- You should have a private GitHub repository created
+- You must have a GitHub repository (private for safety) created
 
 ## How to use
 
